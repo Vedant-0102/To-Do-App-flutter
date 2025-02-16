@@ -1,16 +1,42 @@
-# todo_app
+# 📌 To-Do App
 
-A new Flutter project.
+A simple and efficient To-Do app built using Flutter and Hive for local storage.
 
-## Getting Started
+## Features
+- Add, edit, and delete tasks
+- Mark tasks as completed
+- Persistent storage using Hive database
+- Interactive UI with a modern design
 
-This project is a starting point for a Flutter application.
+## 🗂️ Hive Database
+This app uses Hive for local data storage, ensuring tasks persist even after the app is closed. Data is stored efficiently in key-value pairs.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo Video 🎥
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[📺 Watch Demo Video](assets/To-Do-App.mp4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/Vedant-0102/to-do-app-flutter.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd todo-app
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
+
+## 🛠️ Technologies Used
+- **Flutter**: UI Framework
+- **Hive**: Local Storage
+- **Dart**: Programming Language
+
+## License
+This project is publicly accessible, but the code is **not available for reuse or modification**.

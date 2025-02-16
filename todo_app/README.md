@@ -15,6 +15,20 @@ This app uses Hive for local data storage, ensuring tasks persist even after the
 
 [📺 Watch Demo Video](assets/To-Do-App.mp4)
 
+## Screenshots
+
+### Home Screen
+![Home Screen](todo_app/assets/home-page.png)
+
+### Task List
+![Task List](todo_app/assets/task-tick.png)
+
+### Add Task
+![Task List](todo_app/assets/add-new.png)
+
+### Delete Task
+![Task List](todo_app/assets/delete.png)
+
 ## 📦 Installation
 1. Clone this repository:
    ```sh

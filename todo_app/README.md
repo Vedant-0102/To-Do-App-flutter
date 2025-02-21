@@ -24,7 +24,7 @@ This app uses Hive for local data storage, ensuring tasks persist even after the
 ![Task List](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/tick-task.png)
 
 ### Add Task
-![Add Task](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/add-new.png))
+![Add Task](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/add-new.png)
 
 ### Delete Task
 ![Delete Task](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/delete.png)

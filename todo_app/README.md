@@ -1,6 +1,6 @@
 # 📌 To-Do App
 
-A simple and efficient To-Do app built using Flutter and Hive for local storage.
+A simple and efficient To-Do app built with Flutter and Hive for local storage. Works seamlessly across Android, iOS, Web, and macOS.
 
 ## Features
 - Add, edit, and delete tasks

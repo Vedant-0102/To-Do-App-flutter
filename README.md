@@ -13,21 +13,21 @@ This app uses Hive for local data storage, ensuring tasks persist even after the
 
 ## Demo Video 🎥
 
-[📺 Watch Demo Video](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/To-Do-App.mp4)
+[📺 Watch Demo Video](https://github.com/Vedant-0102/To-Do-App-flutter/blob/main/assets/To-Do-App.mp4)
 
 ## Screenshots
 
 ### Home Screen
-![Home Screen](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/home-page.png)
+![Home Screen](https://github.com/Vedant-0102/To-Do-App-flutter/blob/main/assets/home-page.png)
 
 ### Task List
-![Task List](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/tick-task.png)
+![Task List](https://github.com/Vedant-0102/To-Do-App-flutter/blob/main/assets/tick-task.png)
 
 ### Add Task
-![Add Task](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/add-new.png)
+![Add Task](https://github.com/Vedant-0102/To-Do-App-flutter/blob/main/assets/add-new.png)
 
 ### Delete Task
-![Delete Task](https://github.com/Vedant-0102/to-do-app-flutter/blob/main/todo_app/assets/delete.png)
+![Delete Task](https://github.com/Vedant-0102/To-Do-App-flutter/blob/main/assets/delete.png)
 
 ## 📦 Installation
 1. Clone this repository:
